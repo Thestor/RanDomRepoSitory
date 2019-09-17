@@ -2,7 +2,7 @@
 
 """
 Name: Exercise 1
-@author: Matthew
+@author: Matthew E
 """
 
 print("Enter your height.")
